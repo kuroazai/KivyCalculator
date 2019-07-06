@@ -5,7 +5,7 @@ Created on Wed Jul  3 21:33:05 2019
 @author: KuroAzai
 """
 
-#Stolen from sergzah
+#credits to sergzah for a solution i used
 import sys 
 import re
 
