@@ -2,7 +2,7 @@
 """
 Created on Wed Jul  3 21:33:05 2019
 
-@author: Starscream
+@author: KuroAzai
 """
 
 #Stolen from sergzah
