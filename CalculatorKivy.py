@@ -2,7 +2,7 @@
 """
 Created on Wed Jul  3 23:31:20 2019
 
-@author: Starscream
+@author: KuroAzai
 """
 
 #Imports for Kivy and other dependancies 
