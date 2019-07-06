@@ -1,2 +1,4 @@
 # KivyCalculator
-Creating a calculator application in Python using Kivy
+Creating a calculator application in Python using Kivy.
+
+
