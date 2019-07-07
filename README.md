@@ -9,9 +9,9 @@ Tried using exec() to process strings for the equations given to the calculator 
 
 Am aware of various issues the application still has, that will be improved upon in the upcoming version that will use a far better system.
 
--Would only allow 1 decimal 
--Unable to differential between float and int
--Limited Prevention of non logical calculation
++Would only allow 1 decimal 
++Unable to differential between float and int
++Limited Prevention of non logical calculation
 
 
 Version 0.2 Notes : 
