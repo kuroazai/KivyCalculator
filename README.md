@@ -1,6 +1,6 @@
 # KivyCalculator
 Creating a calculator application in Python using Kivy.
-CalculatorKivy.py(Main Application) -> Calculate(Proccess data then pass it to calculator module) -> calculator.py
++ CalculatorKivy.py(Main Application) -> Calculate(Proccess data then pass it to calculator module) -> calculator.py
 
 Objectives/requirements required to complete this project : 
 + Support Addition, Subtraction , Division and Multiplication 
